@@ -8,4 +8,3 @@ if (time >= 12 && time <= 17) {
 } else {
   console.log("Good Morning");
 }
-
